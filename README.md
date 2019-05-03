@@ -48,6 +48,7 @@ Like with the other options, the user is sent back to the main menu at the end o
 To begin the program with the supervisor view, type node bamazonSupervisor.js into the console.
 
 The initial prompt should look like this:
+
 <img width="473" alt="Screen Shot 2019-05-03 at 6 39 52 PM" src="https://user-images.githubusercontent.com/27400450/57169108-dffd7400-6dd2-11e9-81ed-a5e45a78456d.png">
 
 The first option for the user is "View Department by Product Sales." This will generate a table displaying each department, along with their respective overhead costs, total sales for each department, and overall what the total profit/loss is for each department. This is what that output looks like:
