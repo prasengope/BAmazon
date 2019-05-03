@@ -12,6 +12,7 @@ Here we will walk through what each view of the program should look like when th
 
 ### Customer View
 To begin the program with the customer view, type node bamazonCustomer.js into the console. You should be presented with a table of current products and a prompt.
+![alt text](/Users/praseng/Desktop/codes/BAmazon/imgs/Screen Shot 2019-05-03 at 6.07.37 PM.png "initial prompt")
 
 
 To select an item, type in the item id of the item you wish to buy. You will then be presented with a second prompt asking for the quantity of that item. Both prompts only accept integer values.
