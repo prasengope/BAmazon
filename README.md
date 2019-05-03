@@ -3,9 +3,9 @@ In this activity, I'll be creating an Amazon-like storefront with the MySQL skil
 
 Bamazon is an interactive command-line-interface shopping application. It has three main applications:
 
-### Customer View
-### Manager View
-### Supervisor View
++ Customer View
++ Manager View
++ Supervisor View
 
 ## Program Walkthrough
 Here we will walk through what each view of the program should look like when the program is active.
