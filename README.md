@@ -62,6 +62,10 @@ The second option, "Create Department," allows the user to create a new departme
 Here is an example of a completed prompt for "Create Department" with the success message:
 <img width="808" alt="Screen Shot 2019-05-03 at 6 41 49 PM" src="https://user-images.githubusercontent.com/27400450/57169153-23f07900-6dd3-11e9-8cd0-100545929023.png">
 
+### Demo
+Please click on the link below to see a demo of the app:
+https://drive.google.com/file/d/16XlCmLNCdMD4rU7mlO9zTq799wNJ5SuZ/view
+
 
 License
 This project is licensed under the MIT License
